@@ -2,8 +2,8 @@
   {
     "id": "nano-to",
     "title": "@nano2dev",
-    description: "",
-    products: [
+    "description": "",
+    "products": [
       { 
         "id": '1',
         "title": '12x Waterproof Nano Stickers',
@@ -37,8 +37,8 @@
   {
     "id": "nano-marketplace",
     "title": "@alberto",
-    description: "",
-    products: [
+    "description": "",
+    "products": [
       { 
         "id": '1',
         "title": '12x Waterproof Nano Stickers',
