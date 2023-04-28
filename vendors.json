@@ -34,7 +34,41 @@
 	},
 	{
 		"id": "nano-marketplace",
-		"title": "@alberto",
+		"title": "@johndoe",
+		"description": "",
+		"products": [{
+				"id": "1",
+				"title": "12x Waterproof Nano Stickers",
+				"price": 10,
+				"images": [],
+				"quantity": 10
+			},
+			{
+				"id": "1",
+				"title": "Men's Nano T-Shirt",
+				"price": 50,
+				"images": [],
+				"quantity": 10
+			},
+			{
+				"id": "1",
+				"title": "Women's Nano T-Shirt",
+				"price": 50,
+				"images": [],
+				"quantity": 10
+			},
+			{
+				"id": "1",
+				"title": "USB Drive - Aluminium",
+				"price": 100,
+				"images": [],
+				"quantity": 10
+			}
+		]
+	},
+	{
+		"id": "tim-pizza",
+		"title": "@timspizza",
 		"description": "",
 		"products": [{
 				"id": "1",
