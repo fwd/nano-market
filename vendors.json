@@ -1,7 +1,7 @@
 [
   {
     id: "nano-to",
-    title: "@nano2dev"
+    title: "@nano2dev",
     description: "",
     products: [
       { 
@@ -36,7 +36,7 @@
   },
   {
     id: "nano-marketplace",
-    title: "@alberto"
+    title: "@alberto",
     description: "",
     products: [
       { 
